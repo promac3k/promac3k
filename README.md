@@ -29,7 +29,8 @@
 
 ## 📈 GitHub Stats
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide=contribs,prs)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=promac3k&show_icons=true&theme=github_dark&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=promac3k&layout=compact&theme=github_dark)
 
 ---
 
