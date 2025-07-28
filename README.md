@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Gustavo Antunes!
 
-🎓 Estudante de Programação Web, Dispositivos e Aplicações Móveis (PWDAM)  
-💼 Estagiário na T-Systems ITC Ibéria | Departamento de TI - Autoeuropa  
-🌍 Setúbal, Portugal  
-📚 Apaixonado por backend, automação e desenvolvimento de soluções eficientes.
+🎓 Formado em Programação Web, Dispositivos e Aplicações Móveis (PWDAM)  
+💼 Estágio concluído na T-Systems ITC Ibéria (Autoeuropa), no setor de Tecnologias de Informação  
+📚 A caminho de uma nova etapa académica no Instituto Politécnico de Setúbal (IPS), com foco em Cibersegurança e Cloud Computing  
+💻 Entusiasta de backend, automação, segurança de sistemas e arquiteturas escaláveis
 
 ---
 
