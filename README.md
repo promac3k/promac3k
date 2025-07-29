@@ -29,6 +29,15 @@
 
 ---
 
+## 📌 Projetos em Destaque
+
+🔹 [Projeto PAP - Site de Vendas de Mangás (Django)](link-do-repo)  
+🔹 [Sistema de Gestão SCCM - Estágio Faculdade (Node.js/React)](link-do-repo)  
+🔹 [Gestão de Sensores com ESP32 - Estágio 11º ano (Java + ESP)](link-do-repo)  
+🔹 [Projeto Java Final de Semestre - Armazenamento de Objetos](link-do-repo)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=promac3k&show_icons=true&theme=github_dark&hide=contribs,prs)
