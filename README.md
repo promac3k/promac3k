@@ -32,7 +32,7 @@
 ## 📈 GitHub Stats
 
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=promac3k&show_icons=true&theme=github_dark&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=promac3k&layout=compact&theme=github_dark&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=promac3k&layout=compact&theme=github_dark&card_width=350)
 
 ---
 
