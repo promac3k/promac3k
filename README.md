@@ -38,6 +38,6 @@
 
 ### 📫 Entre em contato:
 - ✉️ gustavovazantunes@email.com
-- 💼 [LinkedIn](in/gustavo-antunes-380078378)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-antunes-380078378)
 - 🌐 [Portfólio]()
 
